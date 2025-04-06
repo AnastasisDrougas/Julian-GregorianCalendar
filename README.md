@@ -1,5 +1,6 @@
 # Julian-GregorianCalendar
 ## Julian & Gregorian Calendar (year 0 to 9999)
+### A project I made during my first semester at DIT HUA (2024)
 
 ### Description:
 This C program is a simple calendar utility that allows the user to input a year and an optional month, and it prints out a calendar for that year or month. Overall, this program is a useful tool for displaying a formatted calendar for any given year and month, with careful attention to historical and leap year intricacies.
